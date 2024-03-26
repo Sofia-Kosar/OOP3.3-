@@ -1,0 +1,5 @@
+﻿  UnitTest3.3С.cpp
+D:\programyvanya\OOP3.3C\UnitTest3.3С\UnitTest3.3С.cpp(3,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+     Creating library D:\programyvanya\OOP3.3C\x64\Debug\UnitTest3.3С.lib and object D:\programyvanya\OOP3.3C\x64\Debug\UnitTest3.3С.exp
+LINK : warning LNK4232: name UnitTest3.3С.dll contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 1251
+  UnitTest3.3С.vcxproj -> D:\programyvanya\OOP3.3C\x64\Debug\UnitTest3.3С.dll

@@ -1,0 +1,3 @@
+﻿  LongLong.cpp
+D:\programyvanya\OOP3.3C\OOP3.3C\LongLong.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  OOP3.3C.vcxproj -> D:\programyvanya\OOP3.3C\x64\Debug\OOP3.3C.exe
